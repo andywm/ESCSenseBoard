@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "EncoderCMOS")(type "KiCad")(uri "D:/_Projects/Project Stargate/Active Motion System/Encoder/EncoderCMOS.pretty")(options "")(descr ""))
+)
